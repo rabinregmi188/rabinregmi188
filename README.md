@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.S. in Computer Science — University of Louisiana at Monroe
+- 🎓 B.S. in Computer Science (GPA: **3.67/4.0**) — University of Louisiana at Monroe
 - 🔭 Currently building [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) — an AI-powered academic code grading platform
 - 🌱 Exploring **Machine Learning**, **Full-Stack Development**, and **Cloud Technologies**
 - 💬 Ask me about **Python, JavaScript, C++, or anything CS!**
@@ -53,7 +53,11 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎓 [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with plagiarism detection and automated scoring | Next.js, FastAPI, Python, PostgreSQL, Redis, Docker |
-| 🔨 *More projects coming soon!* | Currently building new projects — stay tuned! | — |
+| 🌐 [**Portfolio Website**](https://github.com/rabinregmi188/rabin-portfolio) | Personal portfolio with dark mode, scroll animations, and interactive project showcases | Vue.js 3, Tailwind CSS, Vite |
+| 📝 **SmartNotes** *(coming soon)* | Full-stack note-taking app with tags, search, and JWT authentication | Node.js, Express, Vue.js, PostgreSQL |
+| 📚 **StudyTracker** *(coming soon)* | Track study hours and visualize progress with interactive charts | Vue.js, Chart.js, Firebase |
+| 💰 **BudgetBuddy** *(coming soon)* | Personal expense tracker with budgets, categories, and spending analytics | Node.js, Vue.js, PostgreSQL |
+| 🖼️ **Image Classifier** *(coming soon)* | CNN-based image classification model with a deployed web demo | Python, PyTorch, FastAPI, Streamlit |
 
 ---
 
