@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Computer Science Student @ University of Louisiana at Monroe | Graduating May 2026</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rabin-regmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rabin-regmi-63785b256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rregmi967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.S. in Computer Science — University of Louisiana at Monroe
+- 🎓 B.S. in Computer Science (GPA: **3.61/4.0**) — University of Louisiana at Monroe
 - 🔭 Currently building [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) — an AI-powered academic code grading platform
 - 🌱 Exploring **Machine Learning**, **Full-Stack Development**, and **Cloud Technologies**
 - 💬 Ask me about **Python, JavaScript, C++, or anything CS!**
