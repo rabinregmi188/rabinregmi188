@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.S. in Computer Science (GPA: **3.61/4.0**) — University of Louisiana at Monroe
+- 🎓 B.S. in Computer Science — University of Louisiana at Monroe
 - 🔭 Currently building [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) — an AI-powered academic code grading platform
 - 🌱 Exploring **Machine Learning**, **Full-Stack Development**, and **Cloud Technologies**
 - 💬 Ask me about **Python, JavaScript, C++, or anything CS!**
