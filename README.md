@@ -61,7 +61,7 @@
 | [**SmartNotes**](https://github.com/rabinregmi188/SmartNotes) | Note-taking workspace with tags, pinning, search, export, and fast local persistence. | HTML, CSS, JavaScript, localStorage | [Live](https://rabin-portfolio-rust.vercel.app/smartnotes/) |
 | [**StudyTracker**](https://github.com/rabinregmi188/StudyTracker) | Study analytics dashboard with session logging, goals, streaks, charts, and heatmaps. | React, TypeScript, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/studytracker/) |
 | [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with automated scoring and plagiarism detection. | Next.js, FastAPI, Python, PostgreSQL | [Repo](https://github.com/dineshchhantyal/5PANDAVA) |
-| **Image Classifier** | CNN-based image classification project with a planned web interface. | Python, PyTorch | In progress |
+| [**Image Classifier**](https://github.com/rabinregmi188/Image-Classifier) | Full-stack computer vision dashboard with upload, torch-powered inference, prediction history, and a polished frontend. | FastAPI, PyTorch, SQLite, JavaScript | [Repo](https://github.com/rabinregmi188/Image-Classifier) |
 
 ---
 
