@@ -1,24 +1,25 @@
-<h1 align="center">Hey there 👋, I'm Rabin Regmi</h1>
-<h3 align="center">🎓 Computer Science Student @ University of Louisiana at Monroe | Graduating May 2026</h3>
+<h1 align="center">Rabin Regmi</h1>
+<h3 align="center">Computer Science Student at the University of Louisiana at Monroe</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rabin-regmi-63785b256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rregmi967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://rabin-portfolio-rust.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 B.S. in Computer Science (GPA: **3.67/4.0**) — University of Louisiana at Monroe
-- 🔭 Currently building [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) — an AI-powered academic code grading platform
-- 🌱 Exploring **Machine Learning**, **Full-Stack Development**, and **Cloud Technologies**
-- 💬 Ask me about **Python, JavaScript, C++, or anything CS!**
-- 📫 Reach me at **rregmi967@gmail.com**
+- B.S. in Computer Science at the University of Louisiana at Monroe, graduating May 2026
+- GPA: **3.67/4.00**
+- Building practical products across frontend, full-stack, and machine learning projects
+- Currently working on portfolio-ready apps with clean UI, strong fundamentals, and real deployment links
+- Reach me at **rregmi967@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -27,14 +28,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Tools & Platforms**
@@ -48,20 +52,20 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎓 [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with plagiarism detection and automated scoring | Next.js, FastAPI, Python, PostgreSQL, Redis, Docker |
-| 🌐 [**Portfolio Website**](https://github.com/rabinregmi188/rabin-portfolio) | Personal portfolio with dark mode, scroll animations, and interactive project showcases | Vue.js 3, Tailwind CSS, Vite |
-| 📝 **SmartNotes** *(coming soon)* | Full-stack note-taking app with tags, search, and JWT authentication | Node.js, Express, Vue.js, PostgreSQL |
-| 📚 **StudyTracker** *(coming soon)* | Track study hours and visualize progress with interactive charts | Vue.js, Chart.js, Firebase |
-| 💰 **BudgetBuddy** *(coming soon)* | Personal expense tracker with budgets, categories, and spending analytics | Node.js, Vue.js, PostgreSQL |
-| 🖼️ **Image Classifier** *(coming soon)* | CNN-based image classification model with a deployed web demo | Python, PyTorch, FastAPI, Streamlit |
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| [**Portfolio Website**](https://github.com/rabinregmi188/rabin-portfolio) | Personal portfolio with animated sections and live project routes. | Vue.js, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/) |
+| [**BudgetBuddy**](https://github.com/rabinregmi188/Budgetbuddy) | Personal finance dashboard for tracking transactions, budgets, and monthly spending. | HTML, CSS, JavaScript, localStorage | [Live](https://rabin-portfolio-rust.vercel.app/budgetbuddy/) |
+| [**SmartNotes**](https://github.com/rabinregmi188/SmartNotes) | Note-taking workspace with tags, pinning, search, export, and fast local persistence. | HTML, CSS, JavaScript, localStorage | [Live](https://rabin-portfolio-rust.vercel.app/smartnotes/) |
+| [**StudyTracker**](https://github.com/rabinregmi188/StudyTracker) | Study analytics dashboard with session logging, goals, streaks, charts, and heatmaps. | React, TypeScript, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/studytracker/) |
+| [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with automated scoring and plagiarism detection. | Next.js, FastAPI, Python, PostgreSQL | [Repo](https://github.com/dineshchhantyal/5PANDAVA) |
+| **Image Classifier** | CNN-based image classification project with a planned web interface. | Python, PyTorch | In progress |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabinregmi188&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -70,14 +74,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabinregmi188&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabinregmi188&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
