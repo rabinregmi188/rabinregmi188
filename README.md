@@ -39,7 +39,10 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools & Platforms**
 
@@ -56,12 +59,13 @@
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
+| [**AI Travel Planner**](https://github.com/rabinregmi188/AI-Travel-Planner) | Full-stack AI travel app with NLP intent classification and personalized itinerary generation. | React, TypeScript, FastAPI, Hugging Face | [Live](https://ai-travel-planner-delta-seven.vercel.app/) |
+| [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with automated scoring and plagiarism detection. | Next.js, FastAPI, Python, PostgreSQL | [Repo](https://github.com/dineshchhantyal/5PANDAVA) |
 | [**Portfolio Website**](https://github.com/rabinregmi188/rabin-portfolio) | Personal portfolio with animated sections and live project routes. | Vue.js, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/) |
+| [**Image Classifier**](https://github.com/rabinregmi188/Image-Classifier) | Full-stack computer vision dashboard with upload, torch-powered inference, prediction history, and a polished frontend. | FastAPI, PyTorch, SQLite, JavaScript | [Repo](https://github.com/rabinregmi188/Image-Classifier) |
+| [**StudyTracker**](https://github.com/rabinregmi188/StudyTracker) | Study analytics dashboard with session logging, goals, streaks, charts, and heatmaps. | React, TypeScript, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/studytracker/) |
 | [**BudgetBuddy**](https://github.com/rabinregmi188/Budgetbuddy) | Personal finance dashboard for tracking transactions, budgets, and monthly spending. | HTML, CSS, JavaScript, localStorage | [Live](https://rabin-portfolio-rust.vercel.app/budgetbuddy/) |
 | [**SmartNotes**](https://github.com/rabinregmi188/SmartNotes) | Note-taking workspace with tags, pinning, search, export, and fast local persistence. | HTML, CSS, JavaScript, localStorage | [Live](https://rabin-portfolio-rust.vercel.app/smartnotes/) |
-| [**StudyTracker**](https://github.com/rabinregmi188/StudyTracker) | Study analytics dashboard with session logging, goals, streaks, charts, and heatmaps. | React, TypeScript, Vite, CSS | [Live](https://rabin-portfolio-rust.vercel.app/studytracker/) |
-| [**5PANDAVA (Drona)**](https://github.com/dineshchhantyal/5PANDAVA) | AI-powered academic code grading platform with automated scoring and plagiarism detection. | Next.js, FastAPI, Python, PostgreSQL | [Repo](https://github.com/dineshchhantyal/5PANDAVA) |
-| [**Image Classifier**](https://github.com/rabinregmi188/Image-Classifier) | Full-stack computer vision dashboard with upload, torch-powered inference, prediction history, and a polished frontend. | FastAPI, PyTorch, SQLite, JavaScript | [Repo](https://github.com/rabinregmi188/Image-Classifier) |
 
 ---
 
